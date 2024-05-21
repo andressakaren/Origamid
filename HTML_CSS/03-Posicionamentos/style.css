@@ -150,7 +150,7 @@ header {
 
 }
 
-.texto :nth-child(odd) {
+.texto-item:nth-child(odd) {
     background-color: #f7f7f7;
 }
 
