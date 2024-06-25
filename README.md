@@ -8,7 +8,7 @@ Cursos Origamid - Projetos realizados durante o curso:
 
 ![NFT](HTML_CSS/03-Posicionamentos/img/desktop_bikcraft.png)
 
-## JavaScrip
+## JavaScript
 
 [Animais Fantásticos](https://andressakaren.github.io/Origamid/JavaScript/Projeto_01)
 
